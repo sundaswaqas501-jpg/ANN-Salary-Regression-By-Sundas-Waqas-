@@ -62,7 +62,7 @@ Live App:
 https://annsalaryregressionsundaswaq.streamlit.app/
 
 GitHub Repository:
-Add your GitHub repository URL here.
+https://github.com/sundaswaqas501-jpg/ANN-Salary-Regression-By-Sundas-Waqas-⁠
 
 ## 9. Classification vs Regression
 Classification predicts a category or class, such as whether a customer will leave or stay. Regression predicts a continuous numerical value, such as EstimatedSalary.

@@ -43,8 +43,11 @@ The model is evaluated using:
 - MAE (Mean Absolute Error)
 - RMSE (Root Mean Squared Error)
 - R² Score
-
-Actual evaluation results are available in the assignment notebook.
+- 
+### Evaluation Results
+- MAE: 49,850.79
+- RMSE: 57,555.20
+- R² Score: -0.0034
 
 ## 7. How to Run
 1. Install the required libraries:
